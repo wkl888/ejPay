@@ -20,11 +20,11 @@ ejPay个人免签收款支付系统 完全免费 资金直接到达本人账号 
 ### [宣传视频](https://www.bilibili.com/video/av23121122/)
 - 作者亲自制作 [点我观看](https://www.bilibili.com/video/av23121122/)
 ### 项目已部署，在线Demo
-- 本项目运行后效果：http://ejpay.wkl888.cn
-- 本项目Swagger接口文档：http://ejpay.wkl888.cn/swagger-ui.html
+- 本项目运行后效果：https://ejpay.wkl888.cn
+- 本项目Swagger接口文档：https://ejpay.wkl888.cn/swagger-ui.html
 - 实际综合应用商城项目：http://xmall.wkl888.cn/
 
-### v1.9版本已发布！实现移动端支付方案 [立即获取源码和文档](http://ejpay.wkl888.cn/pay)
+### v1.9版本已发布！实现移动端支付方案 [立即获取源码和文档](https://ejpay.wkl888.cn/pay)
 - v1.9 新增云闪付收款（收款直达银行卡），支付宝新增一键红包支付模式
 - v1.8 支付宝新增多种支付方式(含银行转账)
 - v1.7 支付宝无法修改金额备注 新增支付宝扫码检测
@@ -36,10 +36,10 @@ ejPay个人免签收款支付系统 完全免费 资金直接到达本人账号 
 - 实现移动端支付方案 支持H5、APP、小程序
 - 轻松支持多账户收款 赶快使用手机扫码体验吧
 
-    ![](http://ejpay.wkl888.cn/assets/images/mobiletest.png)
+    ![](https://ejpay.wkl888.cn/assets/images/mobiletest.png)
 
 #### 注：v1.9源码（含原理及详细文档）获取方式 
-- 进入 [ejPay官网](http://ejpay.wkl888.cn/pay) 成功支付测试后 将自动发至你所填写的邮箱中
+- 进入 [ejPay官网](https://ejpay.wkl888.cn/pay) 成功支付测试后 将自动发至你所填写的邮箱中
 
 ### 声明
 > 此系统只针对个人开发收款支付，实际可应用到实现~~自动维护捐赠表等业务，无法商用~~！最新版本可已实现充值、发卡、自动发货等业务，可勉强供真正个人商用！日入百万千万的请绕道！当然你还可将此项目当作入门级的SpringBoot练习项目
@@ -117,7 +117,7 @@ ejPay个人免签收款支付系统 完全免费 资金直接到达本人账号 
 - 如何确定收款来自哪笔交易订单？
     - ~~实际业务中审核邮件会包含用户、订单号、支付金额等信息，请根据这些信息进行核对~~
     - ~~如果短时间内收款过多仍无法判断，em？你做的什么交易收款能这么多？这只是针对个人的OK？请去申请支付接口！~~
-    - v1.2版本起已解决该问问题 [点我获取最新版本源码](http://ejpay.wkl888.cn/pay)
+    - v1.2版本起已解决该问问题 [点我获取最新版本源码](https://ejpay.wkl888.cn/pay)
 - 为什么不做自动监听？
     - 迟早被封的为什么要做？...ejPay主要面向真正个人如学生群体，也目前成本最低最稳定的方案，免费！
     - 不想受限制、不想用APP监听、还想免费？请用我这套，哈哈![QQ截图20180721215515.png](https://i.loli.net/2018/07/21/5b533b90bd23b.png)
@@ -174,7 +174,7 @@ ejPay个人免签收款支付系统 完全免费 资金直接到达本人账号 
     ![](https://i.loli.net/2018/07/21/5b52e274d2085.png)
 
 - 微信小程序APP 
-    - [前台源码点我提前获取](http://ejpay.wkl888.cn/pay) [预览视频](https://v.qq.com/x/page/f0627kf4x1e.html)
+    - [前台源码点我提前获取](https://ejpay.wkl888.cn/pay) [预览视频](https://v.qq.com/x/page/f0627kf4x1e.html)
 
     ![](https://i.loli.net/2018/07/21/5b52e1de385e7.png)
 
@@ -185,7 +185,7 @@ ejPay个人免签收款支付系统 完全免费 资金直接到达本人账号 
 
 - 作者博客：[http://blog.wkl888.cn](http://blog.wkl888.cn)
 ### 捐赠
-![](http://ejpay.wkl888.cn/assets/images/mobiletest.png)
+![](https://ejpay.wkl888.cn/assets/images/mobiletest.png)
 
 
 
